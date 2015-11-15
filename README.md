@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # clarifai-ios-starter
 This is a simple project to get you started using the Clarifai API in iOS apps. It includes usage
 of the API in both Swift and Objective-C. Full Clarifai API documentation can be found at
@@ -52,4 +53,6 @@ Custom concepts are private to a given application. As a result, you must ensure
 Feel free to use this project as a base for building your app. Alternately, you can copy
 `ClarifaiClient.h` and `ClarifaiClient.m` into a your own project and use them to make calls
 to Clarifai. Have fun!
+=======
+>>>>>>> origin/master
 # uSpy
